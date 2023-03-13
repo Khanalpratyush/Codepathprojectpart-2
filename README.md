@@ -1,19 +1,19 @@
 # Web Development Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Pratyush Khanal**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [.] **The user can enter their guess in a box before seeing the flipside of the card**
-- [.] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [.] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [.] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+-[.] **The user can enter their guess in a box before seeing the flipside of the card**
+-[.] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+-[.] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+-[.] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
