@@ -2,7 +2,7 @@
 
 Submitted by: **Pratyush Khanal**
 
-This web app: **insert description**
+This web app: **This is a quiz app which let's the user play a Quiz online.**
 
 Time spent: **2** hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src = "https://i.imgur.com/gjct4LO.gif" >
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
