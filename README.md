@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src = "https://i.imgur.com/gjct4LO.gif" >
+<img src = "ezgif.com-video-to-gif (3).gif" >
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
